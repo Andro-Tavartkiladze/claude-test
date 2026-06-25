@@ -10,6 +10,7 @@ $now = date('Y-m-d H:i:s');
 </head>
 <body>
   <h1>გამარჯობა, სამყარო!</h1>
+aba es tu gamoჩნდება
   <p>ეს არის მარტივი სატესტო PHP ფაილი.</p>
   <p>სერვერის დრო: <?php echo $now; ?></p>
 </body>
