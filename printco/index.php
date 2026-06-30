@@ -19,6 +19,7 @@ $year = date('Y');
         <a href="#services">სერვისები</a>
         <a href="#calculator">კალკულატორი</a>
         <a href="#gallery">გალერეა</a>
+        <a href="subscribe.php">გამოწერა</a>
         <a href="#contact">კონტაქტი</a>
       </nav>
       <button class="nav-toggle" id="navToggle" aria-label="მენიუ">☰</button>
