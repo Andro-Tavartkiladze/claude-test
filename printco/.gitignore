@@ -1,1 +1,5 @@
 data/*.log
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+.env
